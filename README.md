@@ -7,7 +7,7 @@ This project is for completion of Udacity's [Full-Stack Web Developer Nanodegree
 # Server info
 - IP Address: 192.99.55.117
 - SSH Port: 2200
-- URL for the application: http://vps186977.vps.ovh.ca/ ( Located on: /var/www/html )
+
 
 # Software Installed
 - OS: Ubuntu 16.04
